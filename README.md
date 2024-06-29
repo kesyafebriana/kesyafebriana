@@ -13,5 +13,5 @@ I'm Kesya, a girl who loves to code. Here's a little more about me:
 - 🎨 I'm a creative mind. Bringing creative solutions to technical problems.
 
 #### 🔗 Connect with Me 🔗
-- [LinkedIn] (https://www.linkedin.com/in/kesyafebriana)
-- [Personal Website] (https://kesya.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/kesyafebriana)
+- [Personal Website](https://kesya.vercel.app/)

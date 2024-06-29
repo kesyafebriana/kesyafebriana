@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**kesyafebriana/kesyafebriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🌱 "Always walk through life as if you have something new to learn and you will." — Vernon Howard
+> 
+#### 🌟 About Me 🌟
 
-Here are some ideas to get you started:
+I'm Kesya, a girl who loves to code. Here's a little more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm passionate about coding.
+- 🛠️ I'm a problem solver. Debugging and error-solving are my superpowers.
+- 🌱 I'm a lifelong learner. I'm constantly exploring new technologies and improving my skills.
+- 🤝 I'm a collaborator. I love working in teams and contributing to open-source projects.
+- 🎨 I'm a creative mind. Bringing creative solutions to technical problems.
+
+#### 🔗 Connect with Me 🔗
+- [LinkedIn] (https://www.linkedin.com/in/kesyafebriana)
+- [Personal Website] (https://kesya.vercel.app/)
